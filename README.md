@@ -29,7 +29,7 @@ This repository is the official implementation of Through Metal Communication Pr
 
 - **Testbed setup**
 
-![Setup](Images/testbed.pdf)
+![Setup](Images/testbed.jpeg)
 
 
 
