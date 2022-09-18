@@ -4,7 +4,7 @@ This repository is the official implementation of Through Metal Communication Pr
 
 - **Objective**
 	- Built a low cost prototype.
-	- Transmit 500 symbols per second through a 5mm thick aluminium metal.
+	- Transmit 500 symbols per second through a 7mm thick aluminium metal.
 	
 
 - **System design**
