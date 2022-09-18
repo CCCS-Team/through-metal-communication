@@ -9,7 +9,7 @@ This repository is the official implementation of Through Metal Communication Pr
 
 - **System design**
 
-![Block diagram](Images/system.pdf)
+![Block diagram](Images/system.jpg)
 
 
 
