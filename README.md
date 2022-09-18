@@ -36,7 +36,7 @@ This repository is the official implementation of Through Metal Communication Pr
 
 ## Results
 
-Successfully transmitted 500 symbols per second through an aluminium steel pipe of 5mm thickness with a low bit error rate.
+Successfully transmitted 500 symbols per second through an aluminium steel pipe of 7mm thickness with a low bit error rate.
 
 
 
